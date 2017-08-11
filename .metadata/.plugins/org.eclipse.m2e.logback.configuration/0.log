@@ -1,0 +1,474 @@
+2017-05-15 17:26:00,673 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test.Automation:com.test.Automation.uiAutomation:0.0.1-SNAPSHOT @ E:\CodingArena\POMPractice\com.test.Automation.uiAutomation\pom.xml.
+2017-05-15 17:26:02,481 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.test.Automation.uiAutomation/src/main/java
+2017-05-15 17:26:02,483 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.test.Automation.uiAutomation/src/main/resources
+2017-05-15 17:26:02,484 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /com.test.Automation.uiAutomation/src/test/java
+2017-05-15 17:26:02,484 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /com.test.Automation.uiAutomation/src/test/resources
+2017-05-15 17:26:04,553 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-15 17:26:04,561 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-15 17:26:04,563 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-15 17:26:04,564 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-15 17:26:31,255 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-15 17:26:31,278 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-15 17:26:31,280 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-15 17:26:31,280 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-15 17:31:32,897 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.test.Automation:com.test.Automation.uiAutomation:0.0.1-SNAPSHOT @ E:\CodingArena\POMPractice\com.test.Automation.uiAutomation\pom.xml.
+2017-05-15 17:31:36,148 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.16/poi-3.16.pom
+2017-05-15 17:31:36,330 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.16/poi-3.16.pom
+2017-05-15 17:31:36,601 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.pom
+2017-05-15 17:31:36,932 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.pom
+2017-05-15 17:31:37,265 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/38/commons-parent-38.pom
+2017-05-15 17:31:37,971 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/38/commons-parent-38.pom
+2017-05-15 17:31:38,153 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.16/poi-ooxml-3.16.pom
+2017-05-15 17:31:38,317 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.16/poi-ooxml-3.16.pom
+2017-05-15 17:31:38,483 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.16/poi-ooxml-schemas-3.16.pom
+2017-05-15 17:31:38,654 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.16/poi-ooxml-schemas-3.16.pom
+2017-05-15 17:31:38,832 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.pom
+2017-05-15 17:31:38,999 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.pom
+2017-05-15 17:31:39,175 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.pom
+2017-05-15 17:31:39,344 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.pom
+2017-05-15 17:31:39,532 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.pom
+2017-05-15 17:31:39,723 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.pom
+2017-05-15 17:31:40,034 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.16/poi-3.16.jar
+2017-05-15 17:34:22,926 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi/3.16/poi-3.16.jar
+2017-05-15 17:34:23,422 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+2017-05-15 17:35:19,917 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-collections4/4.1/commons-collections4-4.1.jar
+2017-05-15 17:35:20,109 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.16/poi-ooxml-3.16.jar
+2017-05-15 17:37:01,679 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml/3.16/poi-ooxml-3.16.jar
+2017-05-15 17:37:01,837 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.16/poi-ooxml-schemas-3.16.jar
+2017-05-15 17:39:23,141 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/poi/poi-ooxml-schemas/3.16/poi-ooxml-schemas-3.16.jar
+2017-05-15 17:39:23,351 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar
+2017-05-15 17:39:35,521 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0.jar
+2017-05-15 17:39:35,718 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.jar
+2017-05-15 17:39:35,937 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/stax/stax-api/1.0.1/stax-api-1.0.1.jar
+2017-05-15 17:39:36,138 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.jar
+2017-05-15 17:39:36,652 [Worker-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/virtuald/curvesapi/1.04/curvesapi-1.04.jar
+2017-05-15 17:39:39,705 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-15 17:39:39,729 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-15 17:39:39,731 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-15 17:39:39,732 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-15 17:39:42,609 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-15 17:39:42,611 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-15 17:39:42,612 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-15 17:39:42,613 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 12:11:03,216 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 12:11:03,461 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 12:11:03,479 [Worker-140] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 12:11:03,494 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 12:11:48,792 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 12:11:48,793 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 12:11:48,794 [Worker-151] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 12:11:48,795 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:02:09,393 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:02:09,393 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:02:09,394 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:02:09,417 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:03:26,325 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:03:26,326 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:03:26,327 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:03:26,338 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:03:35,281 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:03:35,282 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:03:35,283 [Worker-158] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:03:35,283 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:03:48,871 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:03:48,872 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:03:48,873 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:03:48,874 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:03:59,088 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:03:59,089 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:03:59,090 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:03:59,091 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:04:08,169 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:04:08,170 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:04:08,172 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:04:08,174 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:04:48,399 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:04:48,404 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:04:48,456 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:04:48,458 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:04:56,281 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:04:56,282 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:04:56,284 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:04:56,285 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:05:06,784 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:05:06,786 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:05:06,795 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:05:06,797 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:07:32,370 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:07:32,371 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:07:32,373 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:07:32,390 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2017-05-17 13:07:46,282 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:07:46,292 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:07:46,297 [Worker-157] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:07:46,298 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:07:50,581 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:07:50,582 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:07:50,597 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:07:50,598 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:08:01,458 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:08:01,458 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:08:01,462 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:08:01,462 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:08:40,798 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:08:40,799 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:08:40,804 [Worker-141] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:08:40,805 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:09:01,779 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:09:01,779 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:09:01,782 [Worker-154] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:09:01,783 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:09:10,911 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:09:10,933 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:09:10,934 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:09:10,935 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:10:31,286 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:10:31,287 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:10:31,288 [Worker-165] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:10:31,289 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:10:41,667 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:10:41,669 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:10:41,670 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:10:41,671 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:11:53,849 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:11:53,849 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:11:53,851 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:11:53,851 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:01,247 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:01,248 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:01,249 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:01,249 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:12,901 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:12,902 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:12,903 [Worker-162] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:12,904 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:22,885 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:22,886 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:22,888 [Worker-161] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:22,889 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:41,128 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:41,128 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:41,129 [Worker-163] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:41,130 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:52,985 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:52,985 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 13:12:52,986 [Worker-164] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 13:12:52,987 [Worker-164] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:39:59,094 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:39:59,729 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:39:59,741 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:39:59,774 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:42:21,391 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:42:21,392 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:42:21,393 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:42:21,394 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:43:13,214 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:43:13,215 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:43:13,216 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:43:13,216 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:43:21,033 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:43:21,033 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:43:21,034 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:43:21,035 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:46:53,493 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:46:53,513 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:46:53,515 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:46:53,516 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:50:55,613 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:50:55,614 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:50:55,616 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:50:55,618 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:50:58,181 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:50:58,213 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:50:58,222 [Worker-214] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:50:58,223 [Worker-214] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:54:23,784 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:54:23,785 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:54:23,789 [Worker-215] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:54:23,790 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:58:23,591 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:58:23,592 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:58:23,593 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:58:23,593 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:58:35,664 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:58:35,666 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 16:58:35,669 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 16:58:35,671 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:01:24,226 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:01:24,227 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:01:24,228 [Worker-219] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:01:24,229 [Worker-219] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:01:40,562 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:01:40,563 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:01:40,564 [Worker-211] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:01:40,565 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:01:50,947 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:01:50,948 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:01:50,948 [Worker-217] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:01:50,949 [Worker-217] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:02:06,696 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:02:06,697 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:02:06,699 [Worker-216] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:02:06,700 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:02:22,456 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:02:22,457 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:02:22,458 [Worker-218] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:02:22,459 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:32:24,884 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:32:24,892 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:32:24,893 [Worker-232] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:32:24,894 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:35:00,859 [Worker-231] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:35:00,860 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-17 17:35:00,861 [Worker-231] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-17 17:35:00,862 [Worker-231] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 11:26:41,050 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 11:26:41,079 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 11:26:41,081 [Worker-252] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 11:26:41,082 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 11:28:07,960 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 11:28:07,961 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 11:28:07,963 [Worker-251] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 11:28:07,963 [Worker-251] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 11:48:33,906 [Worker-264] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 11:48:33,926 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 11:48:33,926 [Worker-264] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 11:48:33,927 [Worker-264] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 12:20:40,251 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 12:20:40,252 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 12:20:40,253 [Worker-267] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 12:20:40,254 [Worker-267] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 12:50:25,968 [Worker-272] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 12:50:26,007 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-05-18 12:50:26,008 [Worker-272] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-18 12:50:26,025 [Worker-272] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-02 11:05:48,427 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nadeem.app.ocr:ocr-tess4j-example:0.0.1-SNAPSHOT @ C:\Users\Atul\Desktop\ocr-tess4j-example-master\ocr-tess4j-example-master\pom.xml.
+2017-08-02 11:05:50,605 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/net/sf/ghost4j/0.4.5/ghost4j-0.4.5.pom
+2017-08-02 11:05:51,094 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/com/sun/jna/jna/3.0.9/jna-3.0.9.pom
+2017-08-02 11:05:51,971 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/com/sun/jna/jna/3.0.9/jna-3.0.9.pom
+2017-08-02 11:05:52,817 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/com/sun/jna/jna/3.0.9/jna-3.0.9.pom
+2017-08-02 11:05:55,346 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/com/sun/jna/jna/3.0.9/jna-3.0.9.pom
+2017-08-02 11:05:57,600 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/sun/jna/jna/3.0.9/jna-3.0.9.pom
+2017-08-02 11:05:57,890 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/sun/jna/jna/3.0.9/jna-3.0.9.pom
+2017-08-02 11:05:58,769 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2017-08-02 11:05:59,058 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2017-08-02 11:05:59,631 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2017-08-02 11:05:59,936 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2017-08-02 11:06:00,322 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2017-08-02 11:06:00,613 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2017-08-02 11:06:01,132 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2017-08-02 11:06:01,709 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2017-08-02 11:06:02,284 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2017-08-02 11:06:02,601 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2017-08-02 11:06:03,009 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2017-08-02 11:06:03,341 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2017-08-02 11:06:04,026 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2017-08-02 11:06:04,748 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/org/apache/apache/7/apache-7.pom
+2017-08-02 11:06:05,460 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/org/apache/apache/7/apache-7.pom
+2017-08-02 11:06:05,841 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/org/apache/apache/7/apache-7.pom
+2017-08-02 11:06:06,436 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/org/apache/apache/7/apache-7.pom
+2017-08-02 11:06:06,799 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2017-08-02 11:06:07,287 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/7/apache-7.pom
+2017-08-02 11:06:09,030 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2017-08-02 11:06:09,834 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2017-08-02 11:06:10,272 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2017-08-02 11:06:11,059 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2017-08-02 11:06:11,429 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2017-08-02 11:06:11,909 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+2017-08-02 11:06:12,683 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2017-08-02 11:06:13,519 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2017-08-02 11:06:13,835 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2017-08-02 11:06:14,195 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2017-08-02 11:06:14,483 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2017-08-02 11:06:14,888 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/5/commons-parent-5.pom
+2017-08-02 11:06:15,446 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/org/apache/xmlgraphics/xmlgraphics-commons/1.3.1/xmlgraphics-commons-1.3.1.pom
+2017-08-02 11:06:16,024 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/org/apache/xmlgraphics/xmlgraphics-commons/1.3.1/xmlgraphics-commons-1.3.1.pom
+2017-08-02 11:06:16,356 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/org/apache/xmlgraphics/xmlgraphics-commons/1.3.1/xmlgraphics-commons-1.3.1.pom
+2017-08-02 11:06:16,719 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/org/apache/xmlgraphics/xmlgraphics-commons/1.3.1/xmlgraphics-commons-1.3.1.pom
+2017-08-02 11:06:18,914 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/xmlgraphics/xmlgraphics-commons/1.3.1/xmlgraphics-commons-1.3.1.pom
+2017-08-02 11:06:19,216 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/xmlgraphics/xmlgraphics-commons/1.3.1/xmlgraphics-commons-1.3.1.pom
+2017-08-02 11:06:19,772 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/commons-io/commons-io/1.3.1/commons-io-1.3.1.pom
+2017-08-02 11:06:20,342 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/commons-io/commons-io/1.3.1/commons-io-1.3.1.pom
+2017-08-02 11:06:20,650 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/commons-io/commons-io/1.3.1/commons-io-1.3.1.pom
+2017-08-02 11:06:21,022 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/commons-io/commons-io/1.3.1/commons-io-1.3.1.pom
+2017-08-02 11:06:21,308 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.1/commons-io-1.3.1.pom
+2017-08-02 11:06:21,614 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/1.3.1/commons-io-1.3.1.pom
+2017-08-02 11:06:22,185 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2017-08-02 11:06:22,920 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2017-08-02 11:06:23,238 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2017-08-02 11:06:23,609 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2017-08-02 11:06:23,896 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2017-08-02 11:06:24,253 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.0.4/commons-logging-1.0.4.pom
+2017-08-02 11:06:24,847 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/com/lowagie/itext/2.1.7/itext-2.1.7.pom
+2017-08-02 11:06:25,409 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/com/lowagie/itext/2.1.7/itext-2.1.7.pom
+2017-08-02 11:06:25,724 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/com/lowagie/itext/2.1.7/itext-2.1.7.pom
+2017-08-02 11:06:26,639 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/com/lowagie/itext/2.1.7/itext-2.1.7.pom
+2017-08-02 11:06:26,924 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/lowagie/itext/2.1.7/itext-2.1.7.pom
+2017-08-02 11:06:27,234 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/lowagie/itext/2.1.7/itext-2.1.7.pom
+2017-08-02 11:06:27,790 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:28,363 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:28,684 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:28,914 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:29,282 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:29,566 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:29,870 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:30,493 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:30,677 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:31,060 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:31,379 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:31,594 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:31,760 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/bouncycastle/bctsp-jdk14/138/bctsp-jdk14-138.pom
+2017-08-02 11:06:31,975 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:32,260 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:32,353 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:32,639 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:32,798 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:32,885 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:33,350 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/net/sourceforge/tess4j/3.0.2/tess4j-3.0.2.pom
+2017-08-02 11:06:33,830 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.com/maven2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:33,952 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/net/sourceforge/tess4j/3.0.2/tess4j-3.0.2.pom
+2017-08-02 11:06:34,256 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/net/sourceforge/tess4j/3.0.2/tess4j-3.0.2.pom
+2017-08-02 11:06:34,867 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/net/sourceforge/tess4j/3.0.2/tess4j-3.0.2.pom
+2017-08-02 11:06:35,043 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://download.java.net/maven/2/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:35,094 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sourceforge/tess4j/3.0.2/tess4j-3.0.2.pom
+2017-08-02 11:06:35,489 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://anasoft-os-repo.googlecode.com/svn/repository/releases/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:35,764 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/com/kenai/nbpwr/com-sun-media-imageio/1.1-201002281504/com-sun-media-imageio-1.1-201002281504.pom
+2017-08-02 11:06:35,768 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://anasoft-os-repo.googlecode.com/svn/repository/snapshots/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.pom
+2017-08-02 11:06:36,316 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/com/kenai/nbpwr/com-sun-media-imageio/1.1-201002281504/com-sun-media-imageio-1.1-201002281504.pom
+2017-08-02 11:06:36,350 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/com/kenai/nbpwr/com-sun-media-imageio/1.1-201002281504/com-sun-media-imageio-1.1-201002281504.pom
+2017-08-02 11:06:36,623 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/com/kenai/nbpwr/com-sun-media-imageio/1.1-201002281504/com-sun-media-imageio-1.1-201002281504.pom
+2017-08-02 11:06:36,661 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/com/kenai/nbpwr/com-sun-media-imageio/1.1-201002281504/com-sun-media-imageio-1.1-201002281504.pom
+2017-08-02 11:06:37,226 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/com/kenai/nbpwr/com-sun-media-imageio/1.1-201002281504/com-sun-media-imageio-1.1-201002281504.pom
+2017-08-02 11:06:37,255 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/com/kenai/nbpwr/com-sun-media-imageio/1.1-201002281504/com-sun-media-imageio-1.1-201002281504.pom
+2017-08-02 11:06:37,543 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/kenai/nbpwr/com-sun-media-imageio/1.1-201002281504/com-sun-media-imageio-1.1-201002281504.pom
+2017-08-02 11:06:37,923 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/kenai/nbpwr/com-sun-media-imageio/1.1-201002281504/com-sun-media-imageio-1.1-201002281504.pom
+2017-08-02 11:06:38,121 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:38,471 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://clojars.org/repo/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:38,669 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:38,974 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.novamens.com/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:39,034 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.springsource.com/maven/bundles/external/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:39,556 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:39,639 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://nbpwr.kenai.com/maven-repository/releases/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:40,265 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:40,305 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:40,431 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:40,553 [Worker-41] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2017-08-02 11:06:43,737 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-tess4j-example/src/main/java
+2017-08-02 11:06:43,737 [Worker-49] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ocr-tess4j-example/src/test/java
+2017-08-02 11:06:44,522 [Worker-49] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 73 sec
+2017-08-02 11:06:48,236 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-02 11:06:48,539 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Atul\Desktop\ocr-tess4j-example-master\ocr-tess4j-example-master\src\main\resources
+2017-08-02 11:06:48,548 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-02 11:06:48,621 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Atul\Desktop\ocr-tess4j-example-master\ocr-tess4j-example-master\src\test\resources
+2017-08-02 11:08:42,265 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-02 11:08:42,318 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Atul\Desktop\ocr-tess4j-example-master\ocr-tess4j-example-master\src\main\resources
+2017-08-02 11:08:42,321 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-02 11:08:42,335 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Atul\Desktop\ocr-tess4j-example-master\ocr-tess4j-example-master\src\test\resources
+2017-08-02 11:12:29,950 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-02 11:12:30,010 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-02 11:12:30,012 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-02 11:12:30,033 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:09:59,225 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:09:59,354 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:09:59,356 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:09:59,362 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:10:12,717 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nadeem.app.ocr:ocr-tess4j-example:0.0.1-SNAPSHOT @ C:\Users\Atul\Desktop\ocr-tess4j-example-master\ocr-tess4j-example-master\pom.xml.
+2017-08-10 12:10:14,908 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:10:14,931 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Atul\Desktop\ocr-tess4j-example-master\ocr-tess4j-example-master\src\main\resources
+2017-08-10 12:10:14,932 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:10:14,937 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Atul\Desktop\ocr-tess4j-example-master\ocr-tess4j-example-master\src\test\resources
+2017-08-10 12:22:40,800 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:22:40,831 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:22:40,833 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:22:40,859 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:30:16,393 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:30:16,445 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:30:16,447 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:30:16,458 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:33:19,096 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:33:19,116 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:33:19,118 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:33:19,127 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:33:21,779 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:33:21,783 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:33:21,785 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:33:21,789 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:34:07,730 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:34:07,735 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:34:07,737 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:34:07,742 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:34:16,827 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:34:16,863 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:34:16,867 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:34:16,871 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:36:38,313 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:36:38,332 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:36:38,333 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:36:38,338 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:37:03,712 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:37:03,739 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:37:03,741 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:37:03,748 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:40:48,305 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0-sources.jar
+2017-08-10 12:40:49,952 [Worker-32] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-api/3.4.0/selenium-api-3.4.0-sources.jar
+2017-08-10 12:40:50,311 [Worker-32] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.seleniumhq.selenium:selenium-api:3.4.0
+2017-08-10 12:40:50,643 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:40:50,670 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 12:40:50,672 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 12:40:50,677 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:03:58,697 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:03:58,715 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:03:58,716 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:03:58,723 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:06:00,235 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:06:00,256 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:06:00,257 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:06:00,269 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:07:33,330 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:07:33,352 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:07:33,353 [Worker-37] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:07:33,357 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:38:27,515 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:38:27,589 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:38:27,591 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:38:27,602 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:40:58,716 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:40:58,722 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:40:58,724 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:40:58,728 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:42:14,092 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:42:14,116 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:42:14,118 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:42:14,125 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:50:45,300 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:50:45,306 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:50:45,307 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:50:45,312 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:52:35,179 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:52:35,188 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:52:35,190 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:52:35,197 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:54:48,642 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:54:48,650 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:54:48,675 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:54:48,682 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:57:52,942 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:57:52,948 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:57:52,949 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:57:52,957 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:58:00,862 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:58:00,868 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:58:00,869 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:58:00,874 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:58:25,207 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:58:25,234 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:58:25,235 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:58:25,241 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:58:42,761 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:58:42,780 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:58:42,782 [Worker-67] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:58:42,789 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:58:51,805 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:58:51,818 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2017-08-10 13:58:51,819 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-08-10 13:58:51,828 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

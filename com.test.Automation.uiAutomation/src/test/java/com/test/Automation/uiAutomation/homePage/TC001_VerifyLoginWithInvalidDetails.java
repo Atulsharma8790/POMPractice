@@ -18,7 +18,9 @@ public class TC001_VerifyLoginWithInvalidDetails extends TestBase {
 	
 	@BeforeTest
 	public void setUp(){
+		log.info("Browser is selected and opened");
 		init();
+		log.info("Opened the URL");
 		log.info("Initial Steps in Before Test done");
 	}
 	

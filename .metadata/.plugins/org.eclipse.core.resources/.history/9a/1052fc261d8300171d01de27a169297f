@@ -1,0 +1,29 @@
+package com.test.Automation.uiAutomation.excelReader;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class ExcelReader {
+	
+	
+	
+	String path;
+	FileInputStream fis;
+	XSSFWorkbook workbook;
+
+	public ExcelReader(String path){
+		this.path = path;
+		 try {
+			fis = new FileInputStream(path);
+			workbook = new XSSFWorkbook(fis);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		
+	}
+
+}

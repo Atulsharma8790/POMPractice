@@ -8,6 +8,8 @@ import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import com.test.Automation.uiAutomation.excelReader.ExcelReader;
+
 
 public class TestBase {
 	
@@ -16,6 +18,7 @@ public class TestBase {
 	public WebDriver driver;
 	String url = "http://automationpractice.com/index.php";
 	String browser = "firefox";
+	ExcelReader excel;
 	
 	public void init(){
 		
@@ -28,7 +31,7 @@ public class TestBase {
 		
 	}
 
-	private void getUrl(String url) {
+	public void getUrl(String url) {
 		driver.get(url);
 		driver.manage().window().maximize();
 		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
@@ -36,12 +39,20 @@ public class TestBase {
 		
 	}
 
-	private void selectBrowser(String browser) {
+	public void selectBrowser(String browser) {
 		if(browser.equalsIgnoreCase("firefox")){
 			System.setProperty("webdriver.gecko.driver", System.getProperty("user.dir")+"/drivers/geckodriver.exe");
 			driver = new FirefoxDriver();
 			
 		}
+	}
+	
+	public String[][] getData(String excelName,String SheetName){
+		String path = System.getProperty("user.dir")+"/src/main/java/com/test/Automation/uiAutomation/data/"+excelName;
+		
+		excel = new ExcelReader(path);
+		String[][] data = excel.getDataFromSheet(SheetName, excelName);
+		return data;
 	}
 
 }

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;com.test.Automation.uiAutomation/src/main/java/com/test/Automation/uiAutomation/data/TestData.xlsx.xlsx&apos; to &apos;TestData.xlsx&apos;" description="Rename resource &apos;TestData.xlsx.xlsx&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/com/test/Automation/uiAutomation/data/TestData.xlsx.xlsx" name="TestData.xlsx" stamp="1502954862650" updateReferences="true"/>
+</session>

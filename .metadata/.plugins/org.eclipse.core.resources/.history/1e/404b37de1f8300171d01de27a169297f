@@ -1,0 +1,103 @@
+package com.test.Automation.uiAutomation.excelReader;
+
+import java.io.FileInputStream;
+
+import org.apache.poi.xssf.usermodel.XSSFCell;
+import org.apache.poi.xssf.usermodel.XSSFRow;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class ExcelReader {
+
+
+
+	String path;
+	FileInputStream fis;
+	XSSFWorkbook workbook;
+	XSSFSheet sheet;
+
+	public ExcelReader(String path){
+		this.path = path;
+		try {
+			fis = new FileInputStream(path);
+			workbook = new XSSFWorkbook(fis);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+
+	@SuppressWarnings({ "deprecation", "static-access" })
+	public String[][] getDataFromSheet(String SheetName, String ExcelName){
+
+		String dataSets[][] = null;
+		try
+		{
+			sheet = workbook.getSheet(SheetName);
+			int totalRow = sheet.getLastRowNum()+1;
+
+			int totalColumn = sheet.getRow(0).getLastCellNum();
+
+			dataSets = new String[totalRow-1][totalColumn];
+			for(int i=0;i<totalRow;i++)
+			{
+				XSSFRow rows = sheet.getRow(i);
+				for(int j=0;j<totalColumn;j++)
+				{
+					XSSFCell cell = rows.getCell(j);
+
+					if(cell.getCellType()==cell.CELL_TYPE_STRING){
+						dataSets[i-1][j] = cell.getStringCellValue();
+					}
+					else if(cell.getCellType()==cell.CELL_TYPE_NUMERIC){
+						dataSets[i-1][j] = String.valueOf(cell.getNumericCellValue());
+					}
+					else
+						dataSets[i-1][j] = String.valueOf(cell.getNumericCellValue());
+
+				}
+			}
+
+			return dataSets;
+
+		}
+
+		catch(Exception e){
+			System.out.println("Exception in Reading xlsx : "+e.getMessage());
+		}
+		return dataSets;
+	}
+	
+	
+	public String getCellData(String SheetName, String colName, int rownum){
+		try{
+			int col_num = 0;
+			int index = workbook.getSheetIndex(SheetName);
+			sheet = workbook.getSheetAt(index);
+			XSSFRow row = sheet.getRow(0);
+			for (int i=0;i<row.getLastCellNum();i++)
+			{
+				if (row.getCell(i).getStringCellValue().equals(colName)){
+					col_num=i;
+					break;
+				}
+			}
+			
+			row = sheet.getRow(rownum-1);
+			XSSFCell cell = row.getCell(col_num);
+			if(cell.getCellType()==cell.CELL_TYPE_STRING)
+				return cell.getStringCellValue();
+			else if(cell.getCellType()==cell.CELL_TYPE_NUMERIC)
+				return String.valueOf(cell.getNumericCellValue());
+			else
+				return String.valueOf(cell.getNumericCellValue());
+			
+		}
+		catch(Exception e){
+			System.out.println("Exception Occured in fetching cell value : "+e.getMessage());
+		}
+	}
+
+
+}

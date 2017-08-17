@@ -7,12 +7,12 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 import com.test.Automation.uiAutomation.testBase.TestBase;
-import com.test.Automation.uiAutomation.uiActions.homePage;
+import com.test.Automation.uiAutomation.uiActions.HomePage;
 
 
 public class TC001_VerifyLoginWithInvalidDetails extends TestBase {
 	
-	homePage homepage;
+	HomePage homepage;
 	
 	public static final Logger log = Logger.getLogger(TC001_VerifyLoginWithInvalidDetails.class.getName());
 	
@@ -26,7 +26,7 @@ public class TC001_VerifyLoginWithInvalidDetails extends TestBase {
 	
 	@Test
 	public void verifyLoginWithInvalidDetails() throws InterruptedException{
-		homepage = new homePage(driver);
+		homepage = new HomePage(driver);
 		log.info("Logging into the application now");
 		try{
 		homepage.loginToApplication("Test12@gmail.com", "passwd", driver);

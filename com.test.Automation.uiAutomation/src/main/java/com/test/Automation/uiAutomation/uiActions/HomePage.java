@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 
-public class homePage {
+public class HomePage {
 
 	@FindBy(xpath="//*[@id='header']/div[2]/div/div/nav/div[1]/a")
 	//@FindBy(xpath="//a[@class='login']")
@@ -30,7 +30,7 @@ public class homePage {
 	
 	public WebDriverWait wait;
 	
-	public homePage(WebDriver driver){
+	public HomePage(WebDriver driver){
 		PageFactory.initElements(driver,this);
 	}
 	
